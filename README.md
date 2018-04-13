@@ -26,9 +26,12 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 4. Click on the **Assets** tab 
 ![Assets](images/ss3.png)
 
-5. Scroll down to the *Notebooks* section and dlick on **New Notebook**
+5. Scroll down to the *Notebooks* section and click on **New Notebook**
 
-6. Name the Notebook
+6. Name the Notebook *My Time Series RNN Demo* . Select From URL and copy the following URL into the *Notebook URL* field
+
+
+
 Run each cell in the notebook after reading the description of what is being done with each cell
 
 This Watson Studio lab demonstrates the use of an RNN to forecast time series data
