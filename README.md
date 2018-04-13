@@ -29,9 +29,11 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 5. Scroll down to the *Notebooks* section and click on **New Notebook**
 
 6. Name the Notebook *My Time Series RNN Demo* . Select From URL and copy the following URL into the *Notebook URL* field
+![Create Notebook](images/ss4.png)
 
+`https://raw.githubusercontent.com/djccarew/timeseries-rnn-lab-part1/master/oilpricernn.ipynb`
 
+7. Click on **Create Notebook**. After a few seconds the notebbok should be loaded
+![Notebook loaded](images/ss5.png)
 
-Run each cell in the notebook after reading the description of what is being done with each cell
-
-This Watson Studio lab demonstrates the use of an RNN to forecast time series data
+8. Follow the instructions in the notebook to complete the exercise. 
