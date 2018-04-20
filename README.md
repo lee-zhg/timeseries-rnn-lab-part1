@@ -2,7 +2,7 @@
 
 ## Part 1 - Building and running the model
 
-Researchers have found  that recurrent neural networks (RNN) with LSTM can outperform traditional forecasting models like ARIMA when  forecasting future values of certain  time series data. (For an example see [A comparison of artificial neural network and time series models for forecasting commodity prices](https://www.sciencedirect.com/science/article/pii/0925231295000208))
+Researchers have found  that recurrent neural networks (RNN) can outperform traditional forecasting models like ARIMA when  forecasting relatively short term future values of certain  time series data. (For an example see [A comparative study of neural network and Box-Jenkins ARIMA modeling in time series prediction](https://www.sciencedirect.com/science/article/abs/pii/S0360835202000360))
 
 This Watson Studio lab  will demonstrate how to apply an RNN with LSTM to forecast weekly West Texas crude oil prices. The data used to train the model covers the time period  from 01/03/1986 to 3/30/2018. The data  was downloaded from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
