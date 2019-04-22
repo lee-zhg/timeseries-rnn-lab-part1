@@ -10,12 +10,11 @@ This Watson Studio lab  will demonstrate how to apply an RNN with LSTM to foreca
 
 ### 1 Sign up for Watson Studio
 
-If you are not already signed up for Watson Studio, [sign up here](https://www.ibm.com/cloud/watson-studio)
+If you are not already signed up for Watson Studio, [sign up here](https://www.ibm.com/cloud/watson-studio) else [login here](https://dataplatform.cloud.ibm.com/)
 
 ### 2 Create a Watson Studio Project
 
-2.1 From the Watson Studio home page click on **New Project**
-![New Project](images/ss1.png)
+2.1 From the Watson Studio home page click on **Create a project**
 
 2.2 Select a **Standard** project type and click **Create Project**
 ![Jupyter Notebook](images/ss2.png)
