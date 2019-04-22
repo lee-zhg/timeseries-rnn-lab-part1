@@ -35,7 +35,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 3.1 Click on  **Add to project** and then select **Notebook**
 ![Assets](images/ss3.png)
 
-3.2 Name the Notebook *My Time Series RNN Demo* . Select **From URL** and copy the following URL into the **Notebook URL** field
+3.2 Name the Notebook *My Time Series RNN Demo* . Select **From URL** and copy the following URL into the **Notebook URL** field and then click **Create Notebook**
 
 ```
 https://raw.githubusercontent.com/djccarew/timeseries-rnn-lab-part1/master/oilpricernn.ipynb
