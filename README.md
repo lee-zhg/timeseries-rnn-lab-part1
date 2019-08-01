@@ -14,7 +14,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 ### 2 Create a Watson Studio Project
 
-2.1 From the Watson Studio home page click on **Create a project**
+2.1 From the Watson Studio home page click on `Create a project`.
 
 2.2 Select `Create an empty project` as the type of project to create.
 
@@ -24,16 +24,16 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 2.4 If you already have an Object Storage instance associated with your project, click `Create` and go to Step 3.1
 
-2.5 Otherwise, click on **Add** to add an Object Storage instance to your Watson Studio Instance. This will be used to permanently store any data that you upload to Watson Studio
+2.5 Otherwise, click on `Add` to add an Object Storage instance to your Watson Studio Instance. This will be used to permanently store any data that you upload to Watson Studio
 
-2.6 Accept the defaults, scroll down and click the **Create** button. Click **Confirm**.
+2.6 Accept the defaults, scroll down and click the `Create` button. Click `Confirm`.
 
-2.7 Click **Refresh** to load the details of the new Object Storage instance and then click **Create**
+2.7 Click `Refresh` to load the details of the new Object Storage instance and then click `Create`.
 
 
 ### 3. Create  and run this lab's notebook
 
-3.1 Click on  **Add to project** and then select **Notebook**
+3.1 Click on  `Add to project` and then select `Notebook`.
 ![Assets](images/ss3.png)
 
 3.2 Name the Notebook `My Time Series RNN Demo`. 
