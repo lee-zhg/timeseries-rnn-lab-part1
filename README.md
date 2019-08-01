@@ -20,7 +20,7 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 2.3 Give your project a name, for example `Time Series RNN Demo`.
 
-    ![Name Project](docs/images/ss2.png)
+    ![Name Project](images/ss2.png)
 
 2.4 If you already have an Object Storage instance associated with your project, click `Create` and go to Step 3.1
 
