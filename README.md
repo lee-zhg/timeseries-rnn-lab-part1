@@ -16,14 +16,15 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 
 2.1 From the Watson Studio home page click on **Create a project**
 
-2.2 Select a **Standard** project type and click **Create Project**
-![Jupyter Notebook](images/ss2.png)
+2.2 Select `Create an empty project` as the type of project to create.
 
-2.3 Name the project *Time Series RNN Demo*
+2.3 Give your project a name, for example `Time Series RNN Demo`.
 
-2.4 if you already have an Object Storage  instance associated with your project, click **Create** and go to Step 3.1
+    ![Name Project](docs/images/ss9a.png)
 
-2.5 Else click on **Add** to add an Object Storage instance to your Watson Studio Instance. This will be used to permanently store any data that you upload to Watson Studio
+2.4 If you already have an Object Storage instance associated with your project, click `Create` and go to Step 3.1
+
+2.5 Otherwise, click on **Add** to add an Object Storage instance to your Watson Studio Instance. This will be used to permanently store any data that you upload to Watson Studio
 
 2.6 Accept the defaults, scroll down and click the **Create** button. Click **Confirm**.
 
@@ -35,16 +36,20 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 3.1 Click on  **Add to project** and then select **Notebook**
 ![Assets](images/ss3.png)
 
-3.2 Name the Notebook *My Time Series RNN Demo* . Select **From URL** and copy the following URL into the **Notebook URL** field and then click **Create Notebook**
+3.2 Name the Notebook `My Time Series RNN Demo`. 
+
+3.3 Select `From URL` tab and copy/paste the following URL into the `Notebook URL` field.
 
 ```
-https://raw.githubusercontent.com/djccarew/timeseries-rnn-lab-part1/master/oilpricernn.ipynb
+https://raw.githubusercontent.com/lee-zhg/timeseries-rnn-lab-part1/master/oilpricernn.ipynb
 ```
 
 ![Create Notebook](images/ss4.png)
 
+3.4 Click `Create Notebook` button.
 
-3.3 After a few seconds the notebook should be loaded
+3.5 After a few seconds the notebook should be loaded
+
 ![Notebook loaded](images/ss5.png)
 
 3.4 Follow the instructions in the notebook to complete the exercise.
