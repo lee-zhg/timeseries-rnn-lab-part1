@@ -52,4 +52,12 @@ https://raw.githubusercontent.com/lee-zhg/timeseries-rnn-lab-part1/master/oilpri
 
 ![Notebook loaded](images/ss5.png)
 
-3.4 Follow the instructions in the notebook to complete the exercise.
+3.6 If you see `Not Trusted` on the top-right corner of your screen, click on it. 
+
+![Notebook loaded](images/nottrusted.png)
+
+3.7 When prompted, choose `Trust`.
+
+3.8 After a few seconds, the notebook becomes `Trusted`.
+
+3.9 Follow the instructions in the notebook to complete the exercise.
